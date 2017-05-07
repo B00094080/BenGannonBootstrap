@@ -1,0 +1,67 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color: #060909;
+}
+
+.jumbotron{
+	margin-top:1%;
+	background-color: #ec2327;
+	color: #060909;
+	border: 2px solid #ccc;
+}	
+
+.carousel{
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 1%;
+		margin-bottom: 1%;
+}
+	
+.footer{
+		text-align: center;
+		color: #060909;
+}
+
+.row{
+	margin-top: 1%;
+}
+
+.col-md-5{
+	margin-left: 1%;
+}
+
+.thumbnail{
+	border-color: #ec2327;
+}
+
+.page-header{
+	color: #ec2327;
+	text-indent: 1%;
+}
+
+.textbox{
+	color:#060909;
+	margin-top: 6%;
+	background-color:#ec2327;
+	border:1px solid #ccc;
+	font-size: 18px;
+}
+
+.p{
+	color: #ec2327;
+}
+
+.form-control{
+	background-color: #ec2327;
+	color: #060909;
+}
+
+h3{
+	color: #ec2327;
+}
+
+.form-group{
+	color:#060909;
+}
